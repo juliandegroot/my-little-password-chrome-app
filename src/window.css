@@ -1,6 +1,4 @@
 body {
-  background-image: -webkit-image-set(url(images/background.png) 1x,
-                 url(images/background_2x.png) 2x);
   margin-top: 24px;
   text-align: center;
   font-size: 0;
@@ -33,8 +31,6 @@ button[disabled] {
 }
 
 #poney {
-  background-image: -webkit-image-set(url(images/poney.png) 1x,
-                 url(images/poney_2x.png) 2x);
   width: 225px;
   height: 132px;
   bottom: 0;
